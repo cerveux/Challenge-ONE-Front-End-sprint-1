@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Challenge-ONE-Front-End-sprint-1/static/css/main.849e7719.css",
+    "main.js": "/Challenge-ONE-Front-End-sprint-1/static/js/main.041114cb.js",
+    "static/js/787.4f684e42.chunk.js": "/Challenge-ONE-Front-End-sprint-1/static/js/787.4f684e42.chunk.js",
+    "static/media/3936113.jpg": "/Challenge-ONE-Front-End-sprint-1/static/media/3936113.eebc30cd21dd38914b6c.jpg",
+    "static/media/cog.png": "/Challenge-ONE-Front-End-sprint-1/static/media/cog.07011ab9df80f8aab438.png",
+    "static/media/oracle.png": "/Challenge-ONE-Front-End-sprint-1/static/media/oracle.4da1439bcdbe735890f7.png",
+    "index.html": "/Challenge-ONE-Front-End-sprint-1/index.html",
+    "main.849e7719.css.map": "/Challenge-ONE-Front-End-sprint-1/static/css/main.849e7719.css.map",
+    "main.041114cb.js.map": "/Challenge-ONE-Front-End-sprint-1/static/js/main.041114cb.js.map",
+    "787.4f684e42.chunk.js.map": "/Challenge-ONE-Front-End-sprint-1/static/js/787.4f684e42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.849e7719.css",
+    "static/js/main.041114cb.js"
+  ]
+}
